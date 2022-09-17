@@ -1,0 +1,9 @@
+{
+  "name": "Gleaming Void",
+  "description": "Vast, sparkly darkness. Hacked together from me and a friend's DMs, so there's no real title. Check out their Github @Elttob.",
+  "author": "noblereign",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
