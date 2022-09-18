@@ -1,12 +1,14 @@
 {
   "name": "Second Life",
-  "description": "An audio pack that only samples from the Second Life UI sounds.",
+  "description": "An audio pack that only samples from the Second Life UI sounds. Second Life is owned by Linden Labs.",
   "author": "noblereign",
   "version": "v1.0",
   "manifest_version": 1,
   "music": false,
   "ignore": [
+	  "bumper_end.wav",
 	  "confirmation_negative.wav",
+	  "confirmation_positive.wav",
 	  "deck_ui_message_toast.wav",
 	  "deck_ui_misc_01.wav",
 	  "deck_ui_misc_08.wav",
